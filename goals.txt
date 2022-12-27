@@ -1,0 +1,1 @@
+bot should react with kekw whenever someone sends kekw
