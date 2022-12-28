@@ -21,4 +21,4 @@ async def on_message(message):
         await message.channel.send(file=discord.File('kekw.png'))
 
     await bot.process_commands(message)
-bot.run('ODMxNTIzODQyNDIwNzY4ODA4.YHWe7A.OhsWx02txgeIyotza5n4BP-BtvI')
+bot.run('bot token here')
